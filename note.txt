@@ -4,3 +4,4 @@ Type '{ body: { whiteSpace: string; color: string; }; a: { color: string; }; ifr
       Type '{ whiteSpace: string; color: string; }' is not assignable to type 'WebTextFlowProperties'.
         Types of property 'whiteSpace' are incompatible.
           Type 'string' is not assignable to type '"normal" | "pre" | undefined'.
+          
